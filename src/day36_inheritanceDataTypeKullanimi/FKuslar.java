@@ -21,4 +21,4 @@ public class FKuslar extends EHayvanlar{
 
         System.out.println("yumurtayla cogalirlar");
     }
-}}
+}
